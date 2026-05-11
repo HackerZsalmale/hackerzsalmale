@@ -3,6 +3,7 @@
 👀 I’m interested in **Programming**  
 🌱 I’m currently learning **Python** and **JavaScript**  
 📫 How to reach me: Discord — **@zsalmalethebest**  
+📜 My website - <a href="https://qandor.hu></a>
 
 ---
 
